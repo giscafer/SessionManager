@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="SessionManager"
+  id="myeclipse.1443967605186"
+  context-root="/SessionManager"
+  j2ee-spec="6.0"
+  archive="SessionManager.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
